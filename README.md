@@ -1,4 +1,6 @@
-## Hi there 👋
+## Olá, me chamo Jeanderson de Lima Araújo
+
+Sou estudante de Análise e Desenvolvimento de Sistemas na faculdadde Maurício de Nassau, com interesse em trabalhar na análise de dados, desenvolvimento back-end de aplicações e automação de processos.  
 
 <!--
 **jeandersonlima/jeandersonlima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
