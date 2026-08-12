@@ -12,7 +12,7 @@ Tenho fascínio por resolver problemas complexos por trás das telas, conectando
 * ⚙️ **Foco de Atuação:** Back-end, Automação de Processos (Workflows/n8n) e Análise de Dados.
 * 📸 **6 anos na Fotografia Freelancer:** Maturidade no atendimento a clientes, alinhamento de expectativas e gestão de prazos.
 * 🎹 **4 anos na Música (Teclado):** Presença sob pressão, escuta atenta e capacidade de sincronia em equipe.
-* 🏆 **Reconhecimentos:** Vice-campeão no **InterSESI PB (Robótica)** e Projeto Destaque na **MIC 2023** (*"Emelezar sem Embranquecer"*).
+* 🏆 **Reconhecimentos:** Vice-campeão no **InterSESI PB (Robótica)** e Projeto Destaque na **MIC 2023** (*"Embelezar sem Embranquecer"*).
 
 ---
 
