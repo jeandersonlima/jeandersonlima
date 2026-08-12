@@ -38,7 +38,7 @@ Tenho fascínio por resolver problemas complexos por trás das telas, conectando
 ### 🌐 Conecte-se Comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeanderson-de-lima-ara%C3%BAjo-3b7b85254/)
-[![Portfólio](https://img.shields.io/badge/Portfólio_Web-000000?style=for-the-badge&logo=code&logoColor=white)](SEU_LINK_DO_SITE)
+[![Portfólio](https://img.shields.io/badge/Portfólio_Web-000000?style=for-the-badge&logo=code&logoColor=white)](https://jeandersonlima.github.io/Site-Profissional/)
 [![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeandersonlima973@gmail.com)
 
 ---
